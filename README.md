@@ -1,7 +1,7 @@
 ## Hi there, I'm Bobai Nuhu 👋
 **Administrative Officer | SAP Certified Associate | AWS Cloud Enthusiast**
 
-I am a results-driven professional with over 7 years of experience in administrative management and logistics at the **Nigeria Immigration Service**. I bridge the gap between traditional organizational operations and modern cloud-based ERP systems through hands-on technical labs.
+I am a results-driven Administrative Operations Professional with 8+ of experience in administrative management and logistics at the **Nigeria Immigration Service**. I bridge the gap between traditional organizational operations and modern cloud-based ERP systems through hands-on technical labs.
 
 ### 🛠️ My Tech Stack & Expertise
 - **Administration:** Stakeholder Engagement, Government Liaison, Resource Management.
